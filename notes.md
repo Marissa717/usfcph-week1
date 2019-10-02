@@ -27,3 +27,4 @@ Week 2 Front end fundamentals (HTML + CSS + JS)
 Week 3 Intro to programming logic - focus will be on JavaScript language
 Week 4 Back end fundamentals (Data APIs)
 HOmework-see homework file
+USe markdown = waterdown HTML
